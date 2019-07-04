@@ -1,0 +1,1 @@
+[{u'n.SureName': u'IPTC.net/TestEquipment-8/shelf-1/slot-1/module-1'}, {u'n.SureName': u'IPTC.net/TestEquipment-8/shelf-1/slot-1/module-1/port-1/1/1'}, {u'n.SureName': u'CGSKD01_SPO60_1/01/3-3/1xS64/1'}, {u'n.SureName': u'CMSDR01_SPO60_1/01/1-1/1xS64/1'}, {u'n.SureName': u'DHGUL58_SPO60_1/01/8-8/1xS64/1'}]

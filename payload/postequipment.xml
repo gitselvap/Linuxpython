@@ -1,0 +1,9 @@
+<Equipment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+ <SureName>Rest_Equipment</SureName>
+ <Type>Rest Element Node</Type>
+ <SubType>Nokia 7750 Chassis</SubType>
+ <DiscoveredName>Rest_Equipment</DiscoveredName>
+ <DisplayName>Rest_Equipment</DisplayName>
+ <DiscoveryLevel>Level3</DiscoveryLevel>
+ <Category>INFRASTRUCTURE</Category>
+</Equipment>
